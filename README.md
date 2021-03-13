@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marcoswb
+- 👀 I’m interested in Linux, Open Source, Java, Javascript and DevOps
+- 🌱 I'm currently studying Computer Science at UNESC
+- 📫 How to reach me:
+  - linkedin: linkedin.com/in/marcos-warmling
