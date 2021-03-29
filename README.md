@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos Warmling Berti
-- 👀 I’m interested in Linux, Open Source, Python, Javascript, Computer Network and Information Security
+- 👀 I’m interested in Linux, Open Source, Python, Javascript
 - 🌱 I'm currently studying Computer Science at UNESC
 - 📫 How to reach me:
   - linkedin: linkedin.com/in/marcos-warmling
