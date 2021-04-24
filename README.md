@@ -4,7 +4,6 @@
 
 - 💻 Estou atualmente trabalhando como desenvolvedor ETL
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades
-- 📊 Pretendo colaborar com outros desenvolvedores e cientistas de dados
 
 ### Conecte-se comigo:
 
