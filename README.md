@@ -1,35 +1,32 @@
-## Marcos Warmling Berti 👋
+### Hi there 👋 I'm [Marcos Warmling Berti](https://marcoswarmling.net.br/)
 
-## Um graduando de ciência da computação, solucionador de problemas e pensador crítico.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
 
-- 💻 Estou atualmente trabalhando como desenvolvedor ETL
-- 📈 Estou constantemente aprendendo e melhorando minhas habilidades
+> ETL Developer at [Thomson Reuters](https://www.thomsonreuters.com.br)
 
-### Conecte-se comigo:
+- 💻 A computer science major, problem solver and critical thinker.
+- 📈 I am constantly learning and improving my skills.
 
-[<img align="left"  width="24px" src="https://i.ibb.co/VTyBdCK/social-linkedin-box-white-256-30640.png" />](https://www.linkedin.com/in/marcos-warmling/)
+### Programming Languages 🌐
+<a href="https://github.com/marcoswb/"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/marcoswb/"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
 
-<br />
+### Databases 🛠️
 
-### Linguagens e ferramentas:
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 
+### Tools 🛠️
 
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 
-<img align="left" alt="Javascript" width="26px" src="https://i.ibb.co/q9wtP6J/javascript.png" />
+<h3> 🤝🏻 Connect with Me </h3>
 
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/4VnZHHh/file-type-git-icon-130581.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://i.ibb.co/QbHb4Jw/SQL.png" />
-
-<img align="left" alt="React" width="26px" src="https://i.ibb.co/Wpgf072/react.png" />
-
-<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
-
-<br />
-<br />
-
-
----
-
-### 📕 [Site Pessoal](https://marcoswarmling.net.br/)
+<p align="center">
+<a href="https://marcoswarmling.net.br/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-marcoswarmling.net.br-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/marcos-warmling/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marcoswarmling-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:marcos_wb@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcos_wb@outlook.com-blue?style=flat&logo=gmail"></a>
+</p>
