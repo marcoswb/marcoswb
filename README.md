@@ -23,7 +23,7 @@
 
 <a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/marcoswb"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1DAFB&labelColor=ffffff" alt="linux"></a>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
